@@ -1,3 +1,7 @@
+//This code can split the given input into logical chunks while skipping all the unwanted characters e.g. white spaces.
+//Multiple improvements can be made.
+// Sample input: (+ (* 2 2) 3)
+
 #include <string>
 #include <iostream>
 #include <cctype>
